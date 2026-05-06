@@ -194,7 +194,6 @@ The same skeleton, hand-tuned per project — by design.
 $ ping rizq
 
 > primary   : github.com/rizqimtiaz
-> secondary : github.com/rizqimtiaz2
 > mode      : open to collaboration on verifiable AI, ZK, and DePIN
 ```
 
